@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Firas Najjar]
 
 💻 Full-Stack Developer | 🎮 Game Developer | 🌐 Open Source Enthusiast  
 
@@ -20,8 +20,14 @@
 
 ---
 
+## 🔭 I’m currently working on 
+- **Game** Unity game, the name of the game is Lost City
+
+---
+
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=firas988&show_icons=true&theme=radical)   
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=firas988&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firas988&layout=compact&theme=radical)
 
 
@@ -32,7 +38,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
