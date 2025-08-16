@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Firas Najjar]
+# 👋 Hi, I'm Firas Najjar
 
 💻 Full-Stack Developer | 🎮 Game Developer | 🌐 Open Source Enthusiast  
 
