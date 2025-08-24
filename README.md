@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Unity & Backend Systems**  
+- 🌱 I’m currently learning **Unity & Backend and FrontEnd**  
 - 🔭 I’m working on: **Game projects and Web apps**  
 - 📫 Reach me at: **firasngr@gmail.com**  
 
