@@ -43,18 +43,6 @@ A cross-platform app for a computer service business, making it easier for custo
 
 [![View on the App Store](https://img.shields.io/badge/View_on_the_App_Store-0D1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/il/app/arcadia-care/id6803895935)
 
-### ☁️ Naitru — Software & Services Platform *(In Development)*
-
-A platform for requesting custom websites and applications, managing client services, and connecting development workflows with GitHub.
-
-- Working on authentication, backend APIs, and database design
-- Developing project and service-request management features
-- Integrating GitHub App functionality for repository-based workflows
-
-**Stack:** `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `GitHub Apps`
-
-*This project is still in development; its source code is not currently listed as a public repository.*
-
 ### 🎮 [Lost City](https://github.com/firas988/Lost_City_Project) — 3D Adventure / RPG Project
 
 An exploration-focused Unity game set in a mysterious city, featuring interactive environments and gameplay systems.
