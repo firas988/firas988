@@ -41,7 +41,8 @@ A cross-platform app for a computer service business, making it easier for custo
 
 **Stack:** `React Native` · `Expo` · `TypeScript` · `Node.js` · `REST APIs`
 
-[![View on the App Store](https://img.shields.io/badge/View_on_the_App_Store-0D1117?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/il/app/arcadia-care/id6803895935)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.arcadiastore.app)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/il/app/arcadia-care/id6803895935)
 
 ### 🎮 [Lost City](https://github.com/firas988/Lost_City_Project) — 3D Adventure / RPG Project
 
