@@ -69,19 +69,19 @@ A contact-management application featuring a RESTful CRUD API and a relational d
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,bash&theme=dark&perline=7" alt="JavaScript, TypeScript, Python, Java, C++, C#, Bash" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&perline=5" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" />
 </p>
 
 ### 📱 Mobile Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
   <br>
   <sub>React Native</sub>
@@ -89,29 +89,29 @@ A contact-management application featuring a RESTful CRUD API and a relational d
 
 ### ⚙️ Backend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark&perline=3" alt="Node.js, Express, NestJS" />
 </p>
 
 ### 🗄️ Databases & ORM
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase&theme=dark&perline=5" alt="PostgreSQL, MySQL, MongoDB, Prisma, Firebase" />
 </p>
 
-<p align="center">
+<p align="left">
   <sub>SQL · Relational Database Design · Database Management</sub>
 </p>
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker&theme=dark&perline=3" alt="AWS, Azure, Docker" />
 </p>
 
 ### 🔧 Development Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,postman&theme=dark&perline=2" alt="Git, Postman" />
 </p>
 
